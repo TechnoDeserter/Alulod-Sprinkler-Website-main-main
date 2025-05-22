@@ -1,0 +1,48 @@
+{
+  "name": "Alulod Sprinkler",
+  "short_name": "Alulod Sprinkler",
+  "icons": [
+    {
+      "src": "/images/icons/maskable_icon_x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/images/icons/maskable_icon_x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/images/icons/maskable_icon_x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/images/icons/maskable_icon_x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/icons/maskable_icon_x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons/maskable_icon_x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/images/icons/maskable_icon_x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/",
+  "start_url": "/",
+  "description": "Discover innovative solutions for water harvesting and efficient gardening with our Alulod Rain Collector powered by Arduino technology. Automate your sprinkler system and manage roof shading effortlessly for a sustainable approach to gardening.",
+  "display": "standalone",
+  "theme_color": "#34B6F0",
+  "background_color": "#34B6F0"
+}

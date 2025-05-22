@@ -1,0 +1,11 @@
+MSE:  51.081
+RMSE: 7.147
+R²:   0.778
+
+Coefficients:
+          feature       coef
+0     num_plants   0.074035
+1  soil_moisture  -0.069725
+2           area   1.202051
+3   weather_rain  26.989371
+4  weather_sunny  -4.095559

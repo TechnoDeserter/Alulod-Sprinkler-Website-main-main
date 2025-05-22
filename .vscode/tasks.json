@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Generate Type Declaration",
+        "type": "process",
+        "command": "python",
+        "args": [
+          "${workspaceFolder}/utils/tasks/add_context.py",
+          "${file}"
+        ],
+        "presentation": {
+          "echo": true,
+          "reveal": "always",
+          "focus": false,
+          "panel": "shared",
+          "close": true,
+        },
+      }
+    ]
+  }

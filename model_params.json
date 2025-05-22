@@ -1,0 +1,1 @@
+{"intercept": 0.940557, "coef": [0.261464, -0.054172, 1.293962, 14.696237, -5.083165], "features": ["num_plants", "soil_moisture", "area", "weather_rain", "weather_sunny"]}
